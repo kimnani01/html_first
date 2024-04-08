@@ -84,3 +84,12 @@
 * src 이미지 경로 속성의 값으로는 상대경로 방식으로 작성하는 것을 권장
 * 대체텍스트 alt 속성을 필수 작성
 * 이미지 사용시 의미전달이 필요한 이미지와 아닌 이미지를 구분해서 사용
+## figure(block), figcaption(inline) 태그
+* 문서 안 사진을 감싸는 틀로서 활용하고 사진의 캡션을 정의 할 수 있다
+## video 태그
+* `<video src="동영상경로></video>"` 
+* 원하는 유튜브 영상 우클릭 > 소스코드 복사 > 붙여넣기
+* `<iframe src="https://www.youtube.com/embed/동영상주소?속성=값&속성=값">`
+* autoplay=1 자동재생 
+* mute=1 음소거
+* loop=1 반복재생
