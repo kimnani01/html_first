@@ -108,3 +108,15 @@
 ### span
 * 인라인이 2개 이상 형제일 경우 묶는 그룹태그
 * 의미없는 디자인 요소 인라인 처리 필요 시 사용
+## html5 semantic tag
+### semantic tag란?
+* HTML5에서 생성된 의미있는(semantic) 태그 
+### header
+* 로고 및 내비게이션을 묶어주는 웹 사이트 레이아웃 태그 
+### nav
+* 로고 및 웹사이트 주요 내비게이션을 묶어주는 웹 사이트 레이아웃 태그
+다른 페이지로의 링크를 보여주는 구획을 나타냄
+### gnb, lnb, snb
+* gnb(global navigation bar) - nav 묶이는 대상
+* lnb(local navigation bar) - nav>lnb
+* snb(side navigation bar)
