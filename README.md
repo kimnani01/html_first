@@ -120,3 +120,22 @@
 * gnb(global navigation bar) - nav 묶이는 대상
 * lnb(local navigation bar) - nav>lnb
 * snb(side navigation bar)
+## ul, ol, li
+* <ul><li></li></ul> 순서가 없는 목록
+* <ol><li></li></ol> 순서가 있는 목록
+## details, summary
+* <detail><summary>요약</summary>내용</details>
+* “열림” 상태일 때만 내부 정보를 보여주는 정보 공개 위젯을 생성합니다.
+* 요약이나 레이블은 <summary> 요소를 통해 제공할 수 있습니다.
+## footer, mark, main, time
+### `footer`
+* 웹페이지 가장 하단에 위치
+* 구획의 작성자, 저작권 정보, 관련 문서 등의 내용을 담는다
+* (h를 쓰지 않는다)
+### `mark`
+* 현재 맥락에 관련이 깊거나 중요해 표시 또는 하이라이트한 부분을 나타냄
+### `main`
+* 문서 'body'의 주요 콘텐츠를 나타냄
+* 주요 콘텐츠 영역은 문서의 핵심 주제나 앱의 핵심 기능에 직접적으로 연결됐거나 확장하는 콘텐츠로 이루어짐
+### `time`
+* 시간의 특정지점 또는 구간을 나타냄
